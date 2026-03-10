@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "mini-projet-react-native-final",
-    "slug": "mini-projet-react-native-final",
+    "name": "mini-projet-tp",
+    "slug": "mini-projet-tp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "miniprojetreactnativefinal",
+    "scheme": "miniprojettp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
